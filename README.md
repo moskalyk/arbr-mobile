@@ -10,3 +10,7 @@ a minimal react-native app used for scanning NFC tokens with embedding geolocati
 - (optional) blueberry visor & streamed payment with superfluid
 - (optional) extend stream gather to networked peers with fluence
 - (optional) create collective NFT from frequencies and mint to tree
+
+## useful links
+- [maps](https://dev.to/peterklingelhofer/an-introduction-to-google-maps-in-react-native-expo-1g7d)
+- [wallet](https://github.com/ethereum-boilerplate/ethereum-react-native-boilerplate)
