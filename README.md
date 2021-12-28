@@ -15,10 +15,7 @@ purchase referrals generate resources for reforestation with Eden Projects
 - (optional) extend stream gather to networked peers with fluence
 - (optional) create collective NFT from frequencies and mint to tree
 
-<p float="left">
-  <img src="/edge_of_time.jpeg" width="400" /> 
-  <img src="/stargazing.jpeg" width="400" />
-</p>
+![matter](matter.direct.png)
 
 ## useful links
 - [maps](https://dev.to/peterklingelhofer/an-introduction-to-google-maps-in-react-native-expo-1g7d)
