@@ -1,7 +1,9 @@
 # arbr-mobile
-a minimal react-native app used for scanning NFC tokens with embedding geolocation assigned to a charged particle photon
+a minimal react-native app used for scanning NFC tokens with embedded geolocation assigned to a charged particle photon pegged to a tree
 
 you want your NFTs? you work for them via nature walks
+
+purchase referrals generate resources for reforestation with Eden Projects
 
 ## screens
 - sign in with wallet
