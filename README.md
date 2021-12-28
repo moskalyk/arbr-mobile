@@ -8,3 +8,4 @@ a minimal react-native app used for scanning NFC tokens with embedding geolocati
 - open totem based on geo location radius (live refresh, checking position every block time)
 - scroll & purchase nft
 - (optional) blueberry visor & streamed payment with superfluid
+- (optional) extend stream gather to networked peers with fluence
