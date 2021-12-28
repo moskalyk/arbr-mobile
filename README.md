@@ -9,3 +9,4 @@ a minimal react-native app used for scanning NFC tokens with embedding geolocati
 - scroll & purchase nft
 - (optional) blueberry visor & streamed payment with superfluid
 - (optional) extend stream gather to networked peers with fluence
+- (optional) create collective NFT from frequencies and mint to tree
